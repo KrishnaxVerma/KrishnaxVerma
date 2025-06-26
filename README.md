@@ -1,4 +1,4 @@
-Hey! I'm **Krishna Verma** 👋  
+<h2>Hey! I'm Krishna Verma 👋</h2> 
 🎓 Pursuing B.Tech in CSE at MANIT Bhopal  
 🧠 Enthusiast in problem-solving and competitive coding  
 🌐 Currently diving into web development and backend systems  
